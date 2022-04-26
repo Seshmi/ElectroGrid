@@ -12,6 +12,7 @@
 	<servlet-name>Jersey Web Application</servlet-name>
 	<url-pattern>/PaymentService/*</url-pattern>
 	<url-pattern>/UserAPI/*</url-pattern>
+	<url-pattern>/BillingFunction/*</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
     <welcome-file>index.html</welcome-file>
